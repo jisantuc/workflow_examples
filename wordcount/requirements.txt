@@ -1,2 +1,2 @@
 luigi
-boto3
+boto
