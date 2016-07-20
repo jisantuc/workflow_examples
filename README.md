@@ -10,6 +10,8 @@ Before you run either, install the requirements and then run `luigid` from a she
 
 For both, viewing the luigi visualizer at `localhost:8082` is at least one of helpful or fun. (It [doesn't autorefresh](https://github.com/spotify/luigi/issues/1622), so keep your finger on that \<F5\> button)
 
+Either example can be done with `docker build <dirname>`, and directions for running outside of docker containers are below.
+
 Wordcount
 ---------
 
